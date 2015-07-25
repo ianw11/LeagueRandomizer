@@ -1,0 +1,16 @@
+This is a simple python script to help decide what League champion to play next.
+
+It takes a little bit of work off the bat.  Just go into the python file and edit the champions you own and would actually play in each position.
+
+You can pass in the index of the position you'd like if you know you want to play a specific lane and just want help deciding on the champion.  The numbers are:
+   0: top
+   1: mid
+   2: bot (adc)
+   3: support
+   4: jungle
+
+
+To run:
+   $ python LeagueRandomizer.py [index of position]
+or:
+   $ python3 LeagueRandomizer.py [index of position]
