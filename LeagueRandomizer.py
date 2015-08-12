@@ -8,10 +8,10 @@ positions = ["top", "mid", "bot", "support", "jungle"]
 
 #************************************************************#
 
-top_champs = ["Singed", "Irelia", "Garen", "Kayle", "Jax", "Nasus", "Shen", "Shyvana", "Vi", "Teemo"]
-mid_champs = ["Akali", "Annie", "Diana", "Ezreal", "Katarina", "Lux", "Morgana", "Ryze", "Veigar"]
-bot_champs = ["Ashe", "Caitlyn", "Ezreal", "Graves", "Ms Fortune", "Sivir"]
-support_champs = ["Alistar", "Annie", "Blitzcrank", "Janna", "Kayle", "Lux", "Morgana", "Shen", "Sona", "Soraka"]
+top_champs = ["Singed", "Irelia", "Garen", "Kayle", "Jax", "Nasus", "Shyvana", "Vi", "Teemo"]
+mid_champs = ["Akali", "Annie", "Diana", "Ezreal", "Katarina", "Lux", "Ryze"]
+bot_champs = ["Ashe", "Caitlyn", "Ezreal", "Graves", "Sivir"]
+support_champs = ["Alistar", "Blitzcrank", "Janna", "Sona", "Soraka"]
 jungle_champs = ["Amumu", "Diana", "Shyvana", "Vi"]
 
 #************************************************************#
